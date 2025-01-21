@@ -105,10 +105,10 @@
 }
 
 .card__imgframe{
-  background-image: url(/hiratsuka/amalfi/img-item001.jpg);
+  background-image: url(./hiratsuka/amalfi/img-item001.jpg);
 }
 .card__imgframe2{
-  background-image: url(chapeau/img-item01.jpg);
+  background-image: url(.hiratsuka/chapeau/img-item01.jpg);
 }
 .card__imgframe3{
   background-image: url(hiratsuka/shonandaira/img-item01.jpg);
