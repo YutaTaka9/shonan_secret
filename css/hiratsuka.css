@@ -105,30 +105,25 @@
 }
 
 .card__imgframe{
-  background-image: url(../images/hiratsuka/amalfi/img-item001.jpg);
+  background-image: url(hiratsuka/amalfi/img-item001.jpg);
 }
 .card__imgframe2{
-  background-image: url(../images/hiratsuka/chapeau/img-item01.jpg);
+  background-image: url(hiratsuka/chapeau/img-item01.jpg);
 }
 .card__imgframe3{
-  background-image: url(../images/hiratsuka/shonandaira/img-item01.jpg);
+  background-image: url(hiratsuka/shonandaira/img-item01.jpg);
 
 }
 .card__imgframe4{
-  background-image: url(../images/hiratsuka/museum/img-item01.jpg);
+  background-image: url(hiratsuka/museum/img-item01.jpg);
 }
 .card__imgframe5{
-  background-image: url(../images/hiratsuka/gyoko/img-item01.jpg);
+  background-image: url(hiratsuka/gyoko/img-item01.jpg);
 }
 .card__imgframe6{
-  background-image: url(../images/hiratsuka//3rdplace/img-item01.jpg);
+  background-image: url(hiratsuka//3rdplace/img-item01.jpg);
 }
-.card__imgframe7{
-  background-image: url(../images/hiratsuka/tairiku/img-item01.jpg);
-}
-.card__imgframe8{
-  background-image: url(../images/common/noimage.png);
-}
+
 .card__textbox{
   width: 100%;
   height: auto;
